@@ -1,2 +1,3 @@
-Initial content
-Line 1: Added by branch A
+# Conflict Demo File
+Initial content line
+Change made by Branch A - Version A
