@@ -1,2 +1,8 @@
 Collaboration Demo Project
 Version 1.0
+
+Features:
+- Basic collaboration workflow
+- GitHub Issues management
+- Pull Request with review process
+- CI/CD with GitHub Actions
