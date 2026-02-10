@@ -1,2 +1,14 @@
-# collaboration-demo
-This repository hosts the final project of my Git course.
+# Collaboration Demo Project
+
+This project is used to practice Git and GitHub collaboration workflows.
+
+## How to contribute
+1. Open an issue describing your proposed change
+2. Create a branch from main
+3. Make your changes
+4. Submit a pull request
+5. Address review comments
+6. Wait for CI checks to pass
+7. Get approval and merge
+This project uses GitHub Actions for continuous integration.
+The pipeline runs on every push and pull request.
