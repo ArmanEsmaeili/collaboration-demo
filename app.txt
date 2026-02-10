@@ -1,2 +1,8 @@
 Collaboration Demo Project
 Version 1.0
+
+Features:
+- Basic collaboration workflow: Create issues, branches, and PRs
+- GitHub Issues management: Track tasks and improvements
+- Pull Request with review process: Get feedback before merging
+- CI/CD with GitHub Actions: Automated checks on every change
