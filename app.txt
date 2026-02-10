@@ -1,9 +1,8 @@
 Collaboration Demo Project
 Version 1.0
 
-## Project Features
-1. Issue Tracking
-2. Branch Management
-3. Pull Request Workflow
-4. Code Review Process
-5. CI/CD Pipeline
+Features:
+- Basic collaboration workflow: Create issues, branches, and PRs
+- GitHub Issues management: Track tasks and improvements
+- Pull Request with review process: Get feedback before merging
+- CI/CD with GitHub Actions: Automated checks on every change
