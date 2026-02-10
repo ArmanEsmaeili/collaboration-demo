@@ -32,3 +32,18 @@ cd collaboration-demo
 3. `git add . && git commit -m "feat: description"`
 4. `git push origin feature-name`
 5. Create PR on GitHub
+
+
+## Commit Message Examples
+**Good:**
+\`feat: add user authentication\`
+\`fix: resolve login timeout issue\`
+
+**Bad:**
+\`update\` or \`fix stuff\`
+
+## Before Requesting Review
+- Ensure all CI checks pass (green ✓ in GitHub)
+- Rebase your branch on latest main if needed
+- Self-review your changes
+
