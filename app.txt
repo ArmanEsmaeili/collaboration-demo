@@ -1,2 +1,9 @@
 Collaboration Demo Project
 Version 1.0
+
+## Project Features
+1. Issue Tracking
+2. Branch Management
+3. Pull Request Workflow
+4. Code Review Process
+5. CI/CD Pipeline
