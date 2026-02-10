@@ -1,3 +1,4 @@
 # Conflict Demo File
 Initial content line
 Change made by Branch A - Version A
+Change made by Branch B - DIFFERENT Version B (rebased successfully)
